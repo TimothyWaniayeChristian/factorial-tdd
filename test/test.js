@@ -11,5 +11,10 @@ describe("Factorial Function", function () {
         expect(factorial(2)).to.equal(2);
     });
 
+    it("should return 6 for factorial(3)", function () {
+        expect(factorial(3)).to.equal(6);
+    });
+
+
 
 });
