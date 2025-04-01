@@ -3,7 +3,7 @@
  * 
  * Authors:
  * - Timothy Christian Waniaye
- * - Bridget Tino
+ * - Akol Tino Bridget
  *
  * This file contains unit tests for the factorial function.
  * The tests are written using Mocha (testing framework) and Chai (assertion library).
